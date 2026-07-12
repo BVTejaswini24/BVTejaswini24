@@ -38,34 +38,8 @@ Rather than simply learning concepts, I enjoy applying them by creating applicat
 
 # 💻 Technologies I Use
 
-### 💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,c,mysql" />
-</p>
-
-### 🌐 Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
-</p>
-
-### ⚙️ Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### 🛠️ Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,js,c,html,css,react,tailwind,nodejs,express,mysql,mongodb,git,github,vscode,postman,figma&perline=8" />
 </p>
 
 ### 🤖 AI & Development Interests
