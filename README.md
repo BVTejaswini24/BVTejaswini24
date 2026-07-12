@@ -1,95 +1,110 @@
-# Hi, I'm B V Tejaswini 
+<div align="center">
 
-### Information Technology Undergraduate
+# Hi, I'm B V Tejaswini 👋
 
-*Curious developer driven by technology, creativity, and continuous learning.*
+### B.Tech Information Technology Student
 
----
+*Turning ideas into real-world software • Exploring Artificial Intelligence • Learning by building meaningful projects*
 
-## Who I Am
+<br>
 
-Technology has always fascinated me because it turns ideas into solutions that people can actually use. As an Information Technology student, I enjoy experimenting with new technologies, building web applications, and challenging myself with projects that help me grow as a developer.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b-v-tejaswini-710176332/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BVTejaswini24)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bvtejaswini047@gmail.com)
 
-My interests span across Artificial Intelligence, full-stack development, and cybersecurity. I'm constantly exploring new tools, improving my coding skills, and learning how modern software is designed, developed, and deployed.
-
----
-
-## What I'm Working On
-
-* 🤖 Exploring AI-powered applications and automation
-* 🌐 Building responsive full-stack web projects
-* 🔐 Learning cybersecurity concepts and secure development
-* ⚙️ Expanding my backend development knowledge
-* 📚 Strengthening problem-solving and DSA
-* 🚀 Participating in hackathons and developer events
+</div>
 
 ---
 
-## Technologies I Work With
+# ✨ Who I Am
+
+I'm an Information Technology undergraduate with a curiosity for building software that is both practical and user-friendly. I enjoy exploring new technologies, experimenting with ideas, and transforming them into projects that strengthen my skills as a developer.
+
+My interests span across **Artificial Intelligence**, **Full-Stack Web Development**, and **Cybersecurity**. Every project I work on is an opportunity to improve my problem-solving abilities, write cleaner code, and gain hands-on experience with modern technologies.
+
+Rather than simply learning concepts, I enjoy applying them by creating applications that solve real problems and continuously expanding my technical knowledge through projects, hackathons, and self-learning.
+
+---
+
+# 🚀 What I'm Building
+
+- 🤖 AI-powered applications
+- 🌐 Responsive full-stack web projects
+- 🔐 Beginner-friendly cybersecurity projects
+- 📚 Personal projects to strengthen development skills
+- 💡 Solutions inspired by real-world challenges
+
+---
+
+# 💻 Technologies I Use
 
 ### Programming Languages
 
-* Java
-* Python
-* JavaScript
-* C
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
-### Web Development
+### Frontend
 
-* HTML5
-* CSS3
-* React.js
-* Tailwind CSS
-* Node.js
-* Express.js
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### Databases
+### Backend
 
-* MySQL
-* MongoDB
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
-### Developer Tools
+### Database
 
-* Git
-* GitHub
-* VS Code
-* Postman
-* Figma
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
----
+### Tools
 
-## Learning Journey
-
-I'm currently investing my time in:
-
-* Artificial Intelligence & Machine Learning
-* Cloud Computing
-* Backend Engineering
-* Software Architecture
-* Cybersecurity Fundamentals
-* Data Structures & Algorithms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-## Beyond Coding
+# 🌱 Currently Exploring
 
-Outside of academics, I enjoy attending hackathons, exploring new technologies, collaborating with other developers, and building projects that challenge me to think differently. Every project teaches me something new, and I'm always excited to take on the next challenge.
+- Artificial Intelligence & LLMs
+- Backend Development
+- Cloud Computing
+- Cybersecurity Fundamentals
+- Data Structures & Algorithms
+- Software Architecture
 
 ---
 
-## Let's Connect
+# 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/b-v-tejaswini-710176332/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
 
-  <a href="mailto:bvtejaswini047@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/b-v-tejaswini-710176332/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <a href="https://github.com/BVTejaswini24">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<a href="mailto:bvtejaswini047@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/BVTejaswini24">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
+
+---
+
+<div align="center">
+
+### *"Every project is a step forward, every challenge is an opportunity to grow."* 🚀
+
+</div>
 
