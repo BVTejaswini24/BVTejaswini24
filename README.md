@@ -1,4 +1,4 @@
-# Hi, I'm B V Tejaswini 👋
+# Hi, I'm B V Tejaswini 
 
 ### B.Tech Information Technology Student
 
